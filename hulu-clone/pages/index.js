@@ -5,10 +5,10 @@ import Results from "../components/Results";
 import requests from "../utils/requests";
 
 export default function Home({ results }) {
-  // console.log(results)
 
   return (
     <div>
+      {/* head is a built in next component */}
       <Head>
         <title>Hulu</title>
         <link rel="icon" href="/favicon.ico" />
