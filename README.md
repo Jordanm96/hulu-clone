@@ -1,4 +1,5 @@
 # Hulu-Clone
+![Try Me](https://hulu-clone-6kdnqpb1j-jordanm96.vercel.app/)
 
 ## Overview
 Hulu-Clone is an attempt to recreate similar features from the Hulu main screen using Next.js and Tailwind CSS. This clone is a single screen application that displays a wide range of movies taken from the TMDB API. This API grants access to hundreds of movies and categorizes them so that I could seperate the movies by genre in this application. Tailwind CSS let me use simple fun animations that would normally be harder to create using keyframes and basic CSS.
