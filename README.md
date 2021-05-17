@@ -7,6 +7,7 @@ Hulu-Clone is an attempt to recreate similar features from the Hulu main screen 
 https://www.themoviedb.org/documentation/api
 
 ## Code Snippet
+From Thumbnail Component which contains each movie image, brief overview, title of the movie, the release/air date, and a thumbs up with the vote_count percentage provided by TMDB API.
 ```
    <div ref={ref} className='p-2 group cursor-pointer transition duration-200 ease-in transform sm:hover:scale-105 hover:z-50'>
       <Image
